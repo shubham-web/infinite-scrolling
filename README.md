@@ -1,27 +1,11 @@
 # Ngassignments
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
+This mini project is to accomplish infinite scrolling in Angular and was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. And navigate to `http://localhost:4200/`.
 
-## Code scaffolding
+Below is the main snippet used to detect if user has reached bottom of the page.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://user-images.githubusercontent.com/52674815/180633105-b1d4fe7b-21d9-4be8-a2cf-6136da148485.png)
