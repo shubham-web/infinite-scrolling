@@ -1,4 +1,4 @@
-# Ngassignments
+# Infinite Scrolling in Angular
 
 This mini project is to accomplish infinite scrolling in Angular and was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
 
